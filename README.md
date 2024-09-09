@@ -16,4 +16,4 @@
 - x1
 - y1
 - Количество платформ(циклов)
- <image src="https://imgur.com/Ga5CIbR" alt="Пример генераци">
+ ![alt text](https://imgur.com/Ga5CIbR)
